@@ -7,8 +7,7 @@ A visualization tool to visualize classic graph algorithms like Dijsktra, A* and
 
 ![Screenshot 2021-02-11 224917](https://github.com/Rishiii7/PathFindingVisualizer/blob/main/images/image1.jpg)
 
-### After visualization(ofcourse I just changed the theme from dark mode to light mode for this image):
-This is the result after executing a maze generation algorithm and path-finding algorithm.
+The result after executing a maze generation algorithm and path-finding algorithm.
 
 ![Screenshot 2021-02-11 225049](https://github.com/Rishiii7/PathFindingVisualizer/blob/main/images/image2.jpg)
 
