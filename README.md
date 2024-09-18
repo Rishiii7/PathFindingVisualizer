@@ -26,4 +26,5 @@ This is the result after executing a maze generation algorithm and path-finding 
 1) Random Maze - It's just a simple algorithm which creates walls based on the output of a random function.
 
 2) Recursive Division - Mazes can be created with recursive division, an algorithm which works as follows: Begin with the maze's space with no walls. Call this a chamber. Divide the chamber with a randomly positioned wall (or multiple walls) where each wall contains a randomly positioned passage opening within it. Then recursively repeat the process on the subchambers until all chambers are minimum sized. This method results in mazes with long straight walls crossing their space, making it easier to see which areas to avoid.
-# PathFindingVisualizer
+
+Credit @Sethuram52001
